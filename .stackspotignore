@@ -1,0 +1,7 @@
+# StackSpot Ignore File
+# Add patterns to exclude from StackSpot AI indexing
+
+docs/db
+docs/prompts
+docs/agentes
+docs/imgs
