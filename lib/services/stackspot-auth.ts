@@ -46,7 +46,7 @@ class StackSpotAuthService {
     };
 
     try {
-      const response = await fetch('https://idm.stackspot.com/growth-demo/oidc/oauth/token', {
+      const response = await fetch('https://idm.stackspot.com/stackspot-freemium/oidc/oauth/token', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
